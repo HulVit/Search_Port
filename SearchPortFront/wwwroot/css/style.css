@@ -1,0 +1,98 @@
+body {
+    font-family: 'Lora', serif;
+}
+
+.menu-item {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 41px;
+    text-align: center;
+
+    color: #FFFFFF;
+    background: #FF0000;
+    border-radius: 5px;
+
+    width: 240px;
+}
+
+.main-menu {
+    margin-top: 136px;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: white;
+    text-decoration: underline;
+}
+
+.page_header {
+    width: 940px;
+height: 48px;
+left: 130px;
+top: 276px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 46px;
+
+color: #990000;
+    margin-top: 58px;
+
+}
+
+.page_content {
+    width: 1185px;
+height: 30px;
+left: 130px;
+top: 350px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #990000;
+    margin-top: 26px;
+}
+
+.page_rooler {
+    width: 1185px;
+height: 0px;
+left: 130px;
+top: 620px;
+
+border: 1px solid #990000;
+    margin-top: 130px;
+
+}
+
+.page_footer {
+    width: 120px;
+height: 19px;
+left: 130px;
+top: 635px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+
+color: #990000;
+}
+.block {
+    border-radius: 10px;
+    height: 680px;
+    width: 1420px;
+    box-shadow: 0 0 10px rgb(46, 46, 46);
+    background: url(../img/Podlozka2_1.png) 400px 140px no-repeat, url(../img/Podlozka1_1.png) 0px 140px no-repeat, url(../img/fone1.png) center no-repeat;
+}
+
+.page_button{
+    padding-top: 100px;
+}
